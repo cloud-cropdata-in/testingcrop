@@ -1,7 +1,7 @@
 phases:
   install:
     runtime-versions:
-      java: corretto17
+      java: corretto
     commands:
       - echo install
   pre_build:
@@ -18,3 +18,4 @@ phases:
 artifacts:
   files:
     - target/rajkumarapplication.jar
+
