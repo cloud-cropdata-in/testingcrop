@@ -19,6 +19,6 @@ phases:
 
 artifacts:
   files:
-    - target/rajkumarapplication.jar
+    - target/rajkumar.jar
 
 
